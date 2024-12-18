@@ -12,4 +12,8 @@ Aspiring to backend developer/programmer ⚙️
 
 ## Technologies I would learn
 
+Java ☕
+
+Spring/Spring Boot 🍃
+
 ##
