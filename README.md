@@ -8,6 +8,8 @@ Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientatio
 
 # Interests
 
-Aspiring to Backend Developer/Programmer ⚙️
+Aspiring to backend developer/programmer ⚙️
 
 ## Technologies I would learn
+
+##
