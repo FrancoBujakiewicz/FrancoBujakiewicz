@@ -6,13 +6,17 @@ From Argentina, Misiones 🇦🇷
 
 Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientation 🖥️
 
+#
+
 # Interests
 
 Aspiring to backend developer/programmer ⚙️
 
-GNU/Linux: Terminal usage, modifications, scripting, etc. (I use Arch btw) 🐧
+**GNU/Linux**: Terminal usage, modifications, scripting, etc. (I use Arch btw) 🐧
 
-## Technologies I would learn
+#
+
+## Starting technologies
 
 Java ☕
 
@@ -20,6 +24,12 @@ Spring/Spring Boot 🌱
 
 MariaDB 🦭
 
+#
+
+**Actual status**: Learning Java 📔
+
+#
+
 ##
 
-At the moment learning Java 
+#
