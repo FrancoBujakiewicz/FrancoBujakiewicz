@@ -1,4 +1,4 @@
-## About me
+# About me
 
 From Argentina, Misiones 🇦🇷
 
@@ -6,8 +6,8 @@ From Argentina, Misiones 🇦🇷
 
 Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientation 🖥️
 
-## Interests
+# Interests
 
 Aspiring to Backend Developer/Programmer ⚙️
 
-# Technologies 
+## Technologies I would learn
