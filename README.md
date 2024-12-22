@@ -14,14 +14,7 @@ Aspiring to backend developer/programmer ⚙️
 **GNU/Linux**: Terminal usage, modifications, scripting, etc. (I use Arch btw) 🐧
 #
 
-## Starting technologies
-
-Java ☕
-
-Spring/Spring Boot 🌱
-
-MariaDB 🦭
-#
-
 **Actual status**: Learning Java 📔
+
 #
+
