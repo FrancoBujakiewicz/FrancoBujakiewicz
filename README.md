@@ -11,7 +11,9 @@ Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientatio
 
 Aspiring to backend developer/programmer ⚙️
 
-**GNU/Linux**: Terminal usage, modifications, scripting, etc. (I use Arch btw) 🐧
+**GNU/Linux**: Terminal usage, modifications, scripting, etc.
+
+Linux distros history: Linux Mint 🍃 , Arch Linux 🐧 (Actually using NixOS ❄️)
 #
 
 **Actual status**: Learning Java 📔
