@@ -16,7 +16,7 @@ Aspiring to backend developer/programmer ⚙️
 
 **GNU/Linux**: Terminal usage, modifications, scripting, etc.
 
-Linux distros history: Linux Mint 🍃 , Arch Linux 🐧 (Actually using NixOS ❄️)
+Linux distros history: Linux Mint 🍃 , Arch Linux 🐧 and NixOS ❄️ (I use Arch btw)
 
 #
 
