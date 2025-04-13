@@ -2,7 +2,7 @@
 
 From Argentina, Misiones 🇦🇷
 
-16 years old 🤓
+17 years old 🤓
 
 Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientation 🖥️
 
