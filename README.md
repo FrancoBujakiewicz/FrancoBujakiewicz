@@ -10,17 +10,17 @@ Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientatio
 
 # Interests
 
-Aspiring to backend developer/programmer ⚙️
+Aspiring to backend developer/programmer 🔙🔚
 
 #
 
 **GNU/Linux**: Terminal usage, modifications, scripting, etc.
 
-Linux distros history: Linux Mint 🍃 , Arch Linux 🐧 and NixOS ❄️ (I use Arch btw)
+Linux distros history: Linux Mint 🌿, Arch Linux 🐧 and NixOS ❄️ (I use Arch btw)
 
 #
 
-**Actual status**: Learning Java 📔 with Spring Boot 🌿
+**Actual status**: Learning Java ☕ with Spring Boot 🍃
 
 
 
