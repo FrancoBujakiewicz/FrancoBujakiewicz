@@ -20,7 +20,7 @@ Linux distros history: Linux Mint 🍃 , Arch Linux 🐧 and NixOS ❄️ (I use
 
 #
 
-**Actual status**: Learning Java 📔
+**Actual status**: Learning Java 📔 with Spring Boot 🌿
 
 
 
