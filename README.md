@@ -14,7 +14,7 @@ Aspiring to backend developer/programmer 🔙🔚
 
 #
 
-**GNU/Linux**: Terminal usage, modifications, scripting, etc.
+**GNU/Linux**: Terminal usage, customization, scripting, etc.
 
 Linux distros used: Linux Mint 🌿, Arch Linux 🐧 and NixOS ❄️ (I NixOS use btw)
 
