@@ -16,11 +16,11 @@ Aspiring to backend developer/programmer 🔙🔚
 
 **GNU/Linux**: Terminal usage, modifications, scripting, etc.
 
-Linux distros history: Linux Mint 🌿, Arch Linux 🐧 and NixOS ❄️ (I use Arch btw)
+Linux distros used: Linux Mint 🌿, Arch Linux 🐧 and NixOS ❄️ (I NixOS use btw)
 
 #
 
-**Actual status**: Learning Java ☕ with Spring Boot 🍃
+**Actual status**: Backend project using Java ☕ and Spring Boot 🍃
 
 
 
