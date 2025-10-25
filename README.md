@@ -1,26 +1,16 @@
-# About me
+# Franco Bujakiewicz 🧑‍💻 
 
-From Argentina, Misiones 🇦🇷
+From Argentina, Misiones 🇦🇷 17 years old 🤓
 
-17 years old 🤓
+Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Technician diploma 🖥️
 
-Studying in the secondary E.P.E.T N°7 from Jardín América city, IT orientation 🖥️
+# Software engineering interests
 
-#
+## Linux/UNIX based systems 🐧
 
-# Interests
+- Terminal, tiling window managers and keyboard focused apps usage ⌨️ 
+- System and programs configuration and customization ⚙️ 
+- Scripting for automatizations and utilities 📜
 
-Aspiring to backend developer/programmer 🔙🔚
-
-#
-
-**GNU/Linux**: Terminal usage, customization, scripting, etc.
-
-Linux distros used: Linux Mint 🌿, Arch Linux 🐧 and NixOS ❄️ (I NixOS use btw)
-
-#
-
-**Actual status**: Backend project using Java ☕ and Spring Boot 🍃
-
-
-
+### Distributions I used
+ Linux distros I used: Linux Mint 🌿, Arch Linux  and NixOS ❄️ (I NixOS use btw)
