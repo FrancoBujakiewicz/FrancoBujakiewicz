@@ -1,10 +1,10 @@
-# Franco Bujakiewicz 🧑‍💻 
+# 👨‍💻 Franco Bujakiewicz 🧑‍💻 
 
 From Argentina, Misiones 🇦🇷 17 years old 🤓
 
 Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Technician diploma 🖥️
 
-# Software engineering interests
+# Software engineering interests 🧠
 
 ## Linux/UNIX based systems 🐧
 
@@ -13,7 +13,12 @@ Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Tec
 - Setup lightweight, minimalist and fast environments 🪶
 - Scripting for automatizations and utilities 📜
 
-### Distributions I used
+### Distributions I used 💽
  - Linux Mint 🌿
  - Arch Linux 🤯
  - Actually using: NixOS ❄️
+
+## Software development 🧬
+
+### Own software pieces 💎
+
