@@ -35,5 +35,10 @@ Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Tec
 - A tiny Lua module and theming files 🔵
 - Define colorschemes for your favorite languages 🧑‍🎨
 
+### Tools
+- Neovim 🔥
+- Git & Github 🪾
+- Docker 🐋
+
 
 
