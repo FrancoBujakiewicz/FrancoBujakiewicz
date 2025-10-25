@@ -25,9 +25,15 @@ Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Tec
 
 ### Own software pieces 💎
 
-**Latte** 📈 (In developing)
-- Ice cream 🍨 shop stock 🍦 and orders system 🍧
+**Latte** 🍦 (In developing)
+- Ice cream 🍨 shop stock and orders system 🍧
 - Web backend using Java ☕ and Spring Boot 🍃
-- Storage 🗄️ with SQLite 🛢️ and MariaDB 🦭 (In different branches)
+- Persistence with SQLite 🗄️ and MariaDB 🦭 (In different branches)
+
+**Prisma** 🌈
+- Neovim theme changes depending the language 🎨
+- A tiny Lua module and theming files 🔵
+- Define colorschemes for your favorite languages 🧑‍🎨
+
 
 
