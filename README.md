@@ -9,8 +9,11 @@ Studying in the E.P.E.T N°7 high school from Jardín América city, 💿 IT Tec
 ## Linux/UNIX based systems 🐧
 
 - Terminal, tiling window managers and keyboard focused apps usage ⌨️ 
-- System and programs configuration and customization ⚙️ 
+- System and programs configuration and customization ⚙️
+- Setup lightweight, minimalist and fast environments 🪶
 - Scripting for automatizations and utilities 📜
 
 ### Distributions I used
- Linux distros I used: Linux Mint 🌿, Arch Linux  and NixOS ❄️ (I NixOS use btw)
+ - Linux Mint 🌿
+ - Arch Linux 🤯
+ - Actually using: NixOS ❄️
